@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/tripvote/bin/Debug
+/tripvote/.vs/tripvote/v14
+/tripvote/obj/Debug
+/tripvote/Properties
+/vote.csv
